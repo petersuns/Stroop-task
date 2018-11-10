@@ -1,0 +1,9 @@
+Welcome to our experiment!
+
+There will be two phases. 
+In both of them you will get a display of items. 
+On your keyboard you should be able to see five keys with a coloured sticker on it.
+In the first phase it's important to press the keys of the corresponding colour's WORD.
+Try to do this as fast and as accurate as possible.
+Press enter to start.
+Good luck!
