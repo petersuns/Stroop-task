@@ -2,7 +2,7 @@
 
 # Background information:
 Stroop Task
-This is a simple Stroop task programmed using PsychoPy by Shuo Sun and Chiara Van Reyn. It is a variation of the famous Stroop task developed by John Ridley Stroop and published in 1935. This Stroop task involves two parts or phases. Both phases will make use of word names “Red”, “Blue”, “Yellow”, “Purple” and “Green”. Each word can be presented in one of the colours, with the exception that the word name and the colour it is presented in cannot match.
+This is a simple Stroop task programmed using PsychoPy by Peter Sun and Chiara Van Reyn. It is a variation of the famous Stroop task developed by John Ridley Stroop and published in 1935. This Stroop task involves two parts or phases. Both phases will make use of word names “Red”, “Blue”, “Yellow”, “Purple” and “Green”. Each word can be presented in one of the colours, with the exception that the word name and the colour it is presented in cannot match.
 
 # The experiment:
 For technical reason, we use the keys on the keyboard to represent the corresponding colours: key "1" for “Red”, key "2" for for “Blue”, key "3" for “Yellow”, key "4" for “Purple” and key "5" for “Green”.
